@@ -1,0 +1,1763 @@
+body{
+    margin: 0%
+    ;
+}
+.top-header
+{
+    width: 100%;
+    height: 33px;
+    background-color: #190d1f;
+}
+.top-header-left
+{
+    width: 50%;
+    height: 33px;
+    float: left;
+}
+.phone-log
+{
+    width: 10px;
+    height: 12px;
+    margin-left: 213px;
+    margin-top: 10px;
+    float: left;
+    border-radius: 2px;
+}
+
+.top-number
+{
+    font-family: system-ui;
+    color: #acb2b7;
+    float: left;
+    margin-top: 7px;
+    font-size: 13px;
+    margin-left: 5px;
+} 
+.top-button
+{
+    height:10px;
+    width: 10px;
+    background-color: blue;
+    float: left;
+    border-color: aliceblue;
+}
+.top-facebook {
+    width: 37px;
+    height: 32px;
+    float: left;
+    margin-left: 30px;
+}
+
+.top-Twitter
+{
+    width: 37px;
+    height: 32px;
+    float: left;
+    margin-left: 25px;
+}
+.top-insta
+{
+    width: 37px;
+    height: 32px;
+    float: left;
+    margin-left: 25px;
+}
+.top-youtube
+{
+    width: 37px;
+    height: 32px;
+    float: left;
+    margin-left: 25px;
+}
+.top-header-Right
+{
+    width: 50%;
+    height: 33px;
+    float: left;
+   
+}
+.top-para
+{
+    color: #fff;
+    float: left;
+    font-family: sans-serif;
+    font-size: 12.5px;
+    margin-top: 9px;
+    margin-left: 85px;
+    
+}
+.top-arrowlog
+{
+    margin-top: 4px;
+    width: 22px;
+    height: 25px;
+    margin-left: 10px;
+    float: left;
+}
+.top-link
+{
+    color: red;
+    text-decoration: none;
+    float: left;
+    font-size: 14px;
+    margin-left: 4px;
+    margin-top: 8px;
+}
+.top-link:hover
+{
+    text-decoration: underline;
+}
+.top-redline
+{
+    background-color: red;
+    float: left;
+    width: 100%;
+    height: 1px;
+
+}
+.main-headbar
+{
+    width: 100%;
+    height: 91px;
+    background-color:white;
+    float: left;
+}
+.headbar-left
+{
+    width: 50%;
+    height: 91px;
+    float: left;
+
+}
+.headbar-logo
+{
+    float: left;
+    margin-left: 207px;
+    margin-top: 6px;
+}
+.headbar-right
+{
+    width: 50%;
+    height: 91px;
+    float: left;
+    background-color: white;
+
+}
+.home-button
+{
+    color: white;
+    height: 39px;
+    width: 67px;
+    background-color: red;
+    margin-left: 77px;
+    margin-top: 28px;
+    float: left;
+    border: none;
+}
+.e-tick-button
+{
+    color: black;
+    height: 39px;
+    width: 112px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 28px;
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+}
+
+.e-tick-button:hover
+{
+    color: #fff;
+    background: red;
+}
+.citty-circular-button
+{
+    color: black;
+    height: 39px;
+    width: 123px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 28px;
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+}
+.citty-circular-button:hover
+{
+    color: #fff;
+    background: red;
+}
+.notifications-button
+{
+    color: black;
+    height: 39px;
+    width: 140px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 28px;
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+
+}
+.notifications-button:hover
+{
+    color: #fff;
+    background: red;
+}
+.more-button
+{
+    color: black;
+    height: 39px;
+    width: 67px;
+    float: left;
+    margin-left: 3px;
+    margin-top: 28px;
+    cursor: pointer;
+    border: none;
+    background-color: #fff;
+}
+.more-button:hover
+{
+    color: #fff;
+    background: red;
+}
+.mainbody-first
+{
+ width: 100%;
+ height: 475px;
+ float: left;
+}
+.bus
+{
+    width: 100%;
+    height: 475px;
+    float: left;
+    cursor: pointer;
+}
+
+.full-conatiner
+{
+    background-color: rgb(250, 246, 243);
+    width: 72%;
+    height: 32px;
+    float: left;
+    margin-left: 207px;
+    margin-top: -475px;
+}
+.left-container
+{
+    background-color: rgb(250, 246, 243);
+    color: red;
+    width: 96px;
+    height: 32px;
+    float: left;
+}
+.news-flesh
+{  
+    float: left;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.center-container
+{
+   
+    color: red;
+    width: 975px;
+    height: 32px;
+    margin-left: 100px;
+}
+.new-button
+{
+    
+    float: left;
+    width: 34px;
+    height: 13px;
+    border: none;
+    font-size: 10px;
+    margin-top: 9px;
+    background-color: rgb(62, 121, 62);
+    animation: colourchang 2s infinite;
+
+}
+@keyframes colourchang 
+{
+    from {color: red;}
+    to {color: blue;}
+ }
+.news-scroll
+{
+    color: red;
+    font-size: 15px;
+    float: left;
+    margin-top: -17px;
+    margin-left: 41px;
+    font-family: system-ui;
+   
+}
+.click
+{
+    color: blue;
+    float: left;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 231%;
+    margin-top: -33px;
+}
+.book-now
+{
+    color: #e2d6d6;
+    background-color: red;
+    width: 134px;
+    height: 43px;
+    float: left;
+    font-weight: bold;
+    margin-top: -190px;
+    margin-left: 383px;
+    font-size: 17px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.secondbody-full
+{
+    
+    width: 100%;
+    height: 915px;
+    float: left;
+    background-color: #efefef;
+    font-family: sans-serif;
+}
+.secondbody-left
+{
+   
+    width: 44%;
+    height: 915px;
+    float: left;
+    
+}
+.manager-log
+{
+    float: left;
+    margin-left: 209px;
+    margin-top: 20px;
+}
+.manager-title
+{
+    float: left;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: 206px;
+    margin-left: 8px;
+    margin-top: 21px;
+}
+.manger-box
+{
+    
+    width: 441px;
+    height: 171px;
+    background-color: #fff;
+    margin-left: 206px;
+    margin-top: 50px;
+    border-radius: 3px;
+    box-shadow: 0px -1px 8px 0px #929292;
+}
+.manager
+{
+    width: 124px;
+    height: 143px;
+    float: left;
+    margin-top: 6px;
+    margin-left: -282px;
+}
+
+.inner-manager-logo
+{
+    float: left;
+    margin-left: -136px;
+    margin-top: 31px;
+}
+.mananger-name
+{
+    float: left;
+    font-size: 15px;
+    margin-left: 177px;
+    margin-top: 24px;
+    font-family: sans-serif;
+    font-weight: 558;;
+}
+.text-manager
+{
+    font-family: sans-serif;
+    float: left;
+    margin-left: 158px;
+    font-size: 14px;
+    margin-top: 2px;
+}
+.line
+{
+    float: left;
+    width: 265px;
+    margin-left: 157px;
+    margin-top: -9px;
+}
+.know-more
+{
+    color: red;
+    font-size: 13px;
+    text-decoration: none;
+    margin-top: 1px;
+    margin-left: 340px;
+    float: left;
+}
+.second-box
+{
+    float: left;
+    margin-left: 206px;
+    margin-top: 4px;
+    width: 450px;
+    height: 318px;
+    background-color: #fff;
+    box-shadow: 0px -1px 8px 0px #929292;
+}
+.second-box-inner
+{
+    background-color: #e5e3e4;
+    color: red;
+    float: left;
+    width: 450px;
+    height: 45px;
+    font-size: 13px;
+}
+.latest
+{
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+    font-size: 19px;
+}
+.scroll-box
+{
+    width: 450px;
+    height: 197px;
+    
+    float: left;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.first-title-scroll
+{
+    float: left;
+    color: blue;
+    margin-left: 15px;
+}
+.first-content-scroll
+{
+    float: left;
+    color: gray;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-top: -7px;
+}
+.first-line-scroll
+{
+    float: left;
+    color: gray;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-top: 5px;
+    width: 413px;
+}
+.second-title-scroll
+{
+    float: left;
+    color: grey;
+    margin-left: 15px;
+    font-size: 15px;
+}
+.second-content-scroll
+{
+    float: left;
+    color: gray;
+    margin-left: 15px;
+    font-size: 12.5px;
+    margin-top: 4px;
+}
+.second-line-scroll
+{
+    float: left;
+    color: gray;
+    margin-left: 15px;
+    font-size: 13px;
+    margin-top: 5px;
+    width: 413px;
+}
+.customer-logo
+{
+    float: left;
+    margin-top: 9px;
+    margin-left: 206px;
+}
+.customer-text
+{
+    float: left;
+    margin-top: 9px;
+    margin-left: 10px;
+    font-size: 21px;
+}
+.third-box
+{
+    background-color: white;
+    float: left;
+    width: 441px;
+    height: 292px;
+    margin-left: 206px;
+    margin-top: -11px;
+    border-radius: 3px;
+    box-shadow: 0px -1px 8px 0px #929292;
+}
+.third-box-titles
+{
+    color: red;
+    float: left;
+    margin-left: 21px;
+}
+.third-box-log-phone
+{
+    float: left;
+    margin-left: -210px;
+    margin-top: 55px;
+}
+.third-box-text-phone
+{
+    float: left;
+    margin-left: -185px;
+    margin-top: 57px;
+    font-size: 15px;
+}
+.third-box-log-phone2
+{
+    float: left;
+    margin-left: -210px;
+    margin-top: 82px;
+}
+.third-box-text-phone2
+{
+    float: left;
+    margin-left: -185px;
+    margin-top: 85px;
+    font-size: 15px;
+}
+.third-box-log-mail
+{
+    float: left;
+    margin-left: -210px;
+    margin-top: 109px;
+}
+.third-box-text-mail
+{
+    float: left;
+    margin-left: -185px;
+    margin-top: 109px;
+    font-size: 15px;
+}
+.third-box-titles2
+{
+    color: red;
+    float: left;
+    margin-left: -214px;
+    margin-top: 147px;
+}
+.third-box-log-mail2
+{
+    float: left;
+    margin-left: -210px;
+    margin-top: 177px;
+}
+.third-box-text-mail2
+{
+    float: left;
+    margin-left: -185px;
+    margin-top: 178px;
+    font-size: 15px;
+}
+.third-box-titles3
+{
+    color: red;
+    float: left;
+    margin-left: -214px;
+    margin-top: 214px;
+}
+.third-box-log-phone3
+{
+    float: left;
+    margin-left: -210px;
+    margin-top: 243px;
+}
+.third-box-text-phone3
+{
+    float: left;
+    margin-left: -185px;
+    margin-top: 246px;
+    font-size: 15px;
+}
+.secondbody-right
+{
+   
+    width: 56%;
+    height: 915px;
+    float: left;
+}
+.secondright-first
+{
+    
+    float: left;
+    width: 100%;
+    height: 49px;
+}
+.usefull-link
+{
+    float: left;
+    margin-top: 25px;
+    margin-left: 3px;
+}
+.usefull-text
+{
+    margin-top: 23px;
+    margin-left: 28px;
+    font-size: 20px;
+}
+.usefull-box
+{
+    float: left;
+    width: 74%;
+    height: 762px;
+    margin-left: 12px;
+    margin-top: 0px;
+    background-color: #fff;
+    box-shadow: 0px -1px 8px 0px #929292;
+}
+.e-Ticketing
+{
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 41px;
+    margin-left: 31px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.e-Ticketing-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/external-link-red.png) no-repeat 30px center;
+    cursor: pointer;
+    
+    
+   
+}
+.e-Ticketing-button:hover
+{
+    background: url(image/external-link-whit.PNG) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.e-Ticketing-text
+{
+    float: left;
+    margin-top: 3px;
+    margin-left: 9px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.e-Ticketing-text:hover
+{
+    color: red;
+    text-decoration: underline;
+
+}
+.notifications-down
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: -141px;
+    margin-left: 145px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.notifications-button-down
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/notifications-red.png) no-repeat 30px center;
+    cursor: pointer;
+    
+    
+   
+}
+.notifications-button-down:hover
+{
+    background: url(image/notifications-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.notifications-down-text
+{
+    float: left;
+    margin-top: 3px;
+    margin-left: 4px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.notifications-down-text:hover
+{
+    color: red;
+    text-decoration: underline;
+
+}
+.tender
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: -141px;
+    margin-left: 288px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.tender-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/tenders-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.tender-button:hover
+{
+    background: url(image/tenders-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.tender-text
+{
+    float: left;
+    margin-top: 3px;
+    margin-left: 19px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.tender-text:hover
+{
+    color: red;
+    text-decoration: underline;
+
+}
+.tour
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: -141px;
+    margin-left: 435px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.tour-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/notifications-red\ \(1\).png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.tour-button:hover
+{
+    background: url(image/notifications-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.tour-text
+{  float: left;
+    margin-top: 3px;
+    margin-left: -12px;
+    text-decoration:none;
+    color: #070707;
+    cursor: pointer;
+}
+.tour-text:hover
+{
+    color: red;
+    text-decoration: underline;
+
+}
+.keypeople
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 210px;
+    margin-left: -95px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.keypeople-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/people-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.keypeople-button:hover
+{
+    background: url(image/people-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.keypeople-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 11px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.keypeople-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.directory
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 210px;
+    margin-left: 50px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.directory-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/directory-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.directory-button:hover
+{
+    background: url(image/directory-white\ \(1\).png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.directory-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.directory-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.depots
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 210px;
+    margin-left: 47px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.depots-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/depots-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.depots-button:hover
+{
+    background: url(image/depots-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.depots-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 23px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.depots-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.fare
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 210px;
+    margin-left: 56px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.fare-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/fare-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.fare-button:hover
+{
+    background: url(image/fare-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.fare-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 30px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.fare-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.financial
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 75px;
+    margin-left: 31px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+
+.financial-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/finance-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.financial-button:hover
+{
+    background: url(image/finance-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.financial-text
+{  
+    float: left;
+    margin-top: 9px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.financial-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.employee
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 75px;
+    margin-left: 50px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.employee-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/employee-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.employee-button:hover
+{
+    background: url(image/employee-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.employee-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: -4px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.employee-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.Call
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 75px;
+    margin-left: 47px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.Call-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/projects-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.Call-button:hover
+{
+    background: url(image/projects-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.Call-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: -9px;
+    font-size: 14px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.Call-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.pre-bid
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 75px;
+    margin-left: 56px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.pre-bid-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/notifications-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.pre-bid-button:hover
+{
+    background: url(image/notifications-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.pre-bid-text
+{       
+    float: left;
+    margin-top: 9px;
+    font-size: 14px;
+    margin-left: -4px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+    text-align: center;
+}
+.pre-bid-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.future
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 82px;
+    margin-left: 31px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.future-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/future-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.future-button:hover
+{
+    background: url(image/future-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.future-text
+{       float: left;
+    margin-top: 9px;
+    margin-left: 25px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.future-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.g-spark
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 82px;
+    margin-left: 50px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.g-spark-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/finance-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.g-spark-button:hover
+{
+    background: url(image/finance-white\ \(1\).png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.g-spark-text
+{   
+    float: left;
+    margin-top: 9px;
+    margin-left: 17px;
+    text-decoration: none;
+    color: #070707;
+    font-size: 14px;
+    font-size: 15px;
+}
+.g-spark-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.results
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 82px;
+    margin-left: 47px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.results-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/tenders-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.results-button:hover
+{
+    background: url(image/tenders-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.results-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 23px;
+    font-size: 17px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+}
+.results-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.fp-Stops
+{
+    float: left;
+    width: 95px;
+    height: 104px;
+    margin-top: 82px;
+    margin-left: 56px;
+    background-color: #efefef;
+    border: none;
+    border-radius: 5px;
+}
+.fp-Stops-button
+{
+    
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background: url(image/notifications-red.png) no-repeat 30px center;
+    cursor: pointer;
+   
+}
+.fp-Stops-button:hover
+{
+    background: url(image/notifications-white.png) no-repeat 30px center;
+    float: left;
+    width: 95px;
+    height: 105px;
+    margin-top: 0px;
+    margin-left: 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    
+}
+.fp-Stops-text
+{   float: left;
+    margin-top: 9px;
+    margin-left: 2px;
+    text-decoration: none;
+    color: #070707;
+    cursor: pointer;
+    font-size: 15px;
+    text-align: center;
+}
+.fp-Stops-text:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.main-body-third
+{ 
+    float: left;
+    width: 100%;
+    height: 525px;
+    background-color: #190d1f;
+}
+.first-box
+{   
+    float: left;
+    width: 274px;
+    height: 75%;
+    margin-left: 207px;
+    margin-top: 43px;
+    
+}
+.table-head
+{
+    color: #fff;
+    font-family: system-ui;
+    font-weight: 500;
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 1px;
+    font: 300;
+    font-size: 20px;
+}
+.sub-head
+{
+    float: left;
+    margin-top: -3px;
+    color: white;
+    font-family: sans-serif;
+}
+.phone-2
+{
+    
+    float: left;
+    margin-top: 19px;
+    margin-left: -51px;
+}
+.phone-number
+{
+    color: #fff;
+    float: left;
+    margin-top: 16px;
+    margin-left: -28px;
+    font-family: system-ui;
+}
+.phone-2-2
+{
+    float: left;
+    margin-top: 44px;
+    margin-left: -131px;
+}
+.phone-number-2
+{
+    color: #fff;
+    float: left;
+    margin-top: 42px;
+    margin-left: -107px;
+    font-family: system-ui;
+}
+.email-head
+{
+    float: left;
+    margin-left: -128px;
+    margin-top: 83px;
+    color: white;
+    font-family: sans-serif;
+}
+.mailbox-1
+{
+    float: left;
+    margin-top: 103px;
+    margin-left: -130px;
+}
+
+.mailbox-text
+{
+    color: #fff;
+    float: left;
+    margin-top: 20px;
+    margin-left: 22px;
+    font-family: system-ui;
+    font-size: 15px;
+}
+.mailbox-2
+{
+    float: left;
+    margin-top: 67px;
+    margin-left: -275px;
+}
+
+.mailbox-text-2
+{
+    color: #fff;
+    float: left;
+    margin-top: -11px;
+    margin-left: 22px;
+    font-family: system-ui;
+    font-size: 15px;
+}
+.mailbox-3
+{
+    float: left;
+    margin-top: 35px;
+    margin-left: -275px;
+}
+
+.mailbox-text-3
+{
+    color: #fff;
+    float: left;
+    margin-top: -11px;
+    margin-left: 22px;
+    font-family: system-ui;
+    font-size: 15px;
+}
+.mailbox-4
+{
+    float: left;
+    margin-top: 35px;
+    margin-left: -275px;
+}
+
+.mailbox-text-4
+{
+    color: #fff;
+    float: left;
+    margin-top: -11px;
+    margin-left: 22px;
+    font-family: system-ui;
+    font-size: 15px;
+}
+.mailbox-5
+{
+    float: left;
+    margin-top: 35px;
+    margin-left: -275px;
+}
+
+.mailbox-text-5
+{
+    color: #fff;
+    float: left;
+    margin-top: -11px;
+    margin-left: 22px;
+    font-family: system-ui;
+    font-size: 15px;
+}
+.second-box-down
+{   
+    float: left;
+    width: 274px;
+    height: 75%;
+    margin-left: 0px;
+    margin-top: 43px;
+    
+}
+.second-box-down-haed
+{
+    color: #fff;
+    font-family: system-ui;
+    font-weight: 500;
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 1px;
+    font: 300;
+    font-size: 20px;
+}
+.link-down
+{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    font-family: system-ui;
+}
+.link-down:hover
+{
+    text-decoration: underline;
+    color: red;
+    
+}
+
+.third-box-down
+{   
+    float: left;
+    width: 274px;
+    height: 75%;
+    margin-left: 0px;
+    margin-top: 43px;
+   
+}
+.third-box-down-haed
+{
+    color: #fff;
+    font-family: system-ui;
+    font-weight: 500;
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 1px;
+    font: 300;
+    font-size: 20px;
+}
+.third-link-down
+{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    font-family: system-ui;
+}
+.third-link-down:hover
+{
+    text-decoration: underline;
+    color: red;
+    
+}
+.fourth-box-down
+{   
+    float: left;
+    width: 274px;
+    height: 75%;
+    margin-left: 0px;
+    margin-top: 43px;
+    
+}
+.fourth-box-down-haed
+{
+    color: #fff;
+    font-family: system-ui;
+    font-weight: 500;
+    margin-left: 1px;
+    font-size: 25px;
+    margin-top: 1px;
+    font: 300;
+    font-size: 20px;
+}
+.fourth-link-down
+{
+    text-decoration: none;
+    color: white;
+    cursor: pointer;
+    font-family: system-ui;
+}
+.fourth-link-down:hover
+{
+    text-decoration: underline;
+    color: red;
+    
+}
+.powered
+{
+    margin-top: 58px;
+    color: white;
+    font-family: system-ui;
+}
+.anibus
+{
+    float: left;
+    margin-top: -51px;
+    margin-left: 104px;
+}
+.last-line
+{
+    float: left;
+    width: 556%;
+    margin-top: 198px;
+    margin-left: -1035px;
+    height: -6px;
+    background-color: #fff;
+}
+.copy
+{
+    color: #e9e8e8;
+    margin-top: 243px;
+    margin-left: -996px;
+    font-family: system-ui;
+    font-size: 15px;
+    float: left;
+}
